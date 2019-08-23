@@ -1,0 +1,29 @@
+.main-container {
+  max-width: 980px;
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.main-container ul {
+  list-style: none;
+  grid-gap: 30px;
+  margin-top: 50px;
+}
+
+.main-container ul li footer {
+  flex: 1;
+  border: 0;
+  text-align: left;
+  border-radius: 0 0 5px 5px;
+}
+
+.main-container ul li footer strong {
+  font-size: 16px;
+  color: #eee;
+}
+
+.accordion {
+  margin-bottom: 3px;
+  width: 100%;
+}
